@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": "FAN_0", "name": "Trocadéro" }, "geometry": { "type": "Point", "coordinates": [ 2.287857672682833, 48.862626735277729 ] } },
+{ "type": "Feature", "properties": { "ID": "FAN_1", "name": "Hotel de Ville" }, "geometry": { "type": "Point", "coordinates": [ 2.351646915343508, 48.85667355975508 ] } },
+{ "type": "Feature", "properties": { "ID": "FAN_2", "name": "La Villette" }, "geometry": { "type": "Point", "coordinates": [ 2.373696872240231, 48.884414773201598 ] } },
+{ "type": "Feature", "properties": { "ID": "FAN_3", "name": "Parc Georges Valbon" }, "geometry": { "type": "Point", "coordinates": [ 2.403760457673229, 48.937601 ] } }
+]
+}
